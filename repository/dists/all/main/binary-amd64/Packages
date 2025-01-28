@@ -1,0 +1,31 @@
+Package: ublk-dkms
+Version: 6.1.123
+Architecture: all
+Maintainer: Andre Gebers <andre.gebers@gmail.com>
+Installed-Size: 67
+Depends: dkms (>= 2.1.0.0)
+Priority: optional
+Section: kernel
+Filename: pool/main/u/ublk-dkms/ublk-dkms_6.1.123_all.deb
+Size: 15204
+SHA256: 53ffaf3e3ef1bc5c21a3b9be1658417e6576038c0f9898a6f790500acc33c17f
+SHA1: ebd675aaae87b8db78601da6126d75ac97574523
+MD5sum: 1a619e1aaff7ea1b35c5bb49cc5fa9f7
+Description: DKMS source for the ublk driver
+
+Package: ublksrv
+Version: 1.0
+Architecture: amd64
+Maintainer: Andre Gebers <andre.gebers@gmail.com>
+Installed-Size: 884
+Priority: optional
+Section: misc
+Filename: pool/main/u/ublksrv/ublksrv_1.0_amd64.deb
+Size: 144396
+SHA256: 69cf320f26968ca986b8d6723ee6eb18c7b40273ef917c00cbceece765e53d25
+SHA1: 43df7377d01ff5493c3b6c724a10d21fbb2a667b
+MD5sum: dc1c04a2cf96c95b9ab9da1968d8400e
+Description: ublksrv binary, libs and headers
+ contains ublksrv binary, libs and headers from the
+ https://github.com/ublk-org/ublksrv
+

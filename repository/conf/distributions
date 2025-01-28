@@ -1,0 +1,8 @@
+Origin: agebe
+Label: debian repo
+Suite: stable
+Codename: all
+Architectures: amd64
+Components: main
+Description: Debian github repository
+SignWith: 21F6533AFBDF392E

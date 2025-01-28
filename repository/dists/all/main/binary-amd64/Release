@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: agebe
+Label: debian repo
+Architecture: amd64
+Description: Debian github repository
